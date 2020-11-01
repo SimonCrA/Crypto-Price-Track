@@ -7,7 +7,7 @@
           <router-link
             :to="{name : 'home'}"
             class="font-semibold text-xl tracking-tight">
-            PlatziExchange
+            Crypto-Si Exchange
           </router-link>
         </div>
         <div class="hidden sm:block w-full block flex-grow lg:flex lg:items-center lg:w-auto">
